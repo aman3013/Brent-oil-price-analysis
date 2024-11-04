@@ -7,3 +7,5 @@ scipy
 ruptures
 scikit-learn
 arch
+prophet
+tensorflow
