@@ -9,3 +9,4 @@ scikit-learn
 arch
 prophet
 tensorflow
+wbdata
