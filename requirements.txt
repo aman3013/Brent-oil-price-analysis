@@ -10,3 +10,4 @@ arch
 prophet
 tensorflow
 wbdata
+yfinance
