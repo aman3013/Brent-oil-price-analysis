@@ -7,3 +7,7 @@ scipy
 ruptures
 scikit-learn
 arch
+prophet
+tensorflow
+wbdata
+yfinance
