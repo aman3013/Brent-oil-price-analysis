@@ -11,3 +11,4 @@ prophet
 tensorflow
 wbdata
 yfinance
+Flask
