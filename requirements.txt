@@ -11,3 +11,5 @@ prophet
 tensorflow
 wbdata
 yfinance
+Flask
+flask-cors

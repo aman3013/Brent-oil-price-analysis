@@ -1,2 +1,5 @@
 venv/
 data/
+frontend/node_modules
+models/
+
